@@ -1,0 +1,14 @@
+name: context_extension
+description: Context Extension Helper
+version: 1.0.0
+publish_to: none
+
+dependencies:
+  flutter:
+    sdk: flutter
+environment:
+  sdk: ">=2.19.0 <3.0.0"
+
+dev_dependencies:
+  test:
+  very_good_analysis:
