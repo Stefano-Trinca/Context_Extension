@@ -18,5 +18,5 @@ extension BuildContextExtensionNavigatio<T> on BuildContext {
   void popUntil(String name) =>
       _navigator.popUntil((route) => route.settings.name == name);
 
-  void pop({T? result}) => _navigator.pop(result);
+  void pop([T? result]) => _navigator.pop(result);
 }

@@ -4,4 +4,4 @@ export 'extensions/theme_color.dart';
 export 'extensions/theme_extension.dart';
 
 export 'extensions/snackbar_extension.dart';
-export 'extensions/drawer_extension.dart';
+export 'extensions/scaffold_extension.dart';
